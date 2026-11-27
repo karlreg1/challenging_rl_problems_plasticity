@@ -3,3 +3,5 @@ ToDo Liste für die Gruppe
 -------------------------------------------------------
 
 1. environment finden (vlt Lunar Lander)
+2. plasticity loss demonstrieren
+3. hard reset, Shrink & Perturb, ReDo
